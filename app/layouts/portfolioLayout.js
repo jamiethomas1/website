@@ -7,7 +7,7 @@ export default function PortfolioLayout({children}) {
             <div id="navbar" className="p-6 min-w-full flex justify-around items-center">
                 <div>Jamie Thomas</div>
                 <ul id="links" className="flex justify-around space-x-10">
-                    <li>Home</li>
+                    <li className={styles.selected}>Home</li>
                     <li>About</li>
                     <li>Projects</li>
                     <li>Contact</li>
