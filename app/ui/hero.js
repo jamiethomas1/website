@@ -11,7 +11,7 @@ export default function Hero() {
                         information.</p>
                 </div>
                 <div className={styles.picture}>
-                    <img src="snowdon.jpg" alt="Picture of me walking up Mount Snowden" />
+                    
                 </div>
             </div>
         </>
