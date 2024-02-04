@@ -2,7 +2,7 @@ import styles from "./styles/portfolioLayout.module.css"
 
 export default function PortfolioLayout({children}) {
     return (
-        <div className="relative min-h-screen min-w-full flex flex-col items-center" style={{fontFamily: "'Roboto', sans-serif"}}>
+        <div className="relative min-h-screen min-w-full flex flex-col items-center">
             <div className={styles.background} />
             <div id="navbar" className="p-6 min-w-full flex justify-around items-center">
                 <div>Jamie Thomas</div>
@@ -13,7 +13,7 @@ export default function PortfolioLayout({children}) {
                     <li>Contact</li>
                 </ul>
             </div>
-            <div id="page">
+            <div id="page" className="min-w-full min-h-screen flex flex-col items-center">
                 {children}
             </div>
         </div>
