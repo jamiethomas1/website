@@ -1,9 +1,19 @@
+'use client'
+
+import { useRef } from "react"
+
 import Hero from "../ui/hero"
 import About from "../ui/about"
 
 import styles from "./styles/portfolioLayout.module.css"
 
-export default function PortfolioLayout({children}) {
+
+export default function PortfolioLayout() {
+    
+    const aboutRef = useRef(null);
+
+    const aboutScroll = () => aboutRef.current.scrollIntoView();
+
     return (
         <>
             <div className="relative min-h-screen min-w-full flex flex-col items-center">
@@ -12,7 +22,7 @@ export default function PortfolioLayout({children}) {
                     <h1>Jamie Thomas</h1>
                     <ul id="links" className="flex justify-around space-x-10">
                         <li className={styles.selected}>Home</li>
-                        <li>About</li>
+                        <li onClick={aboutScroll}><a href="#about">About</a></li>
                         <li>Projects</li>
                         <li>Contact</li>
                     </ul>
@@ -21,7 +31,7 @@ export default function PortfolioLayout({children}) {
                     <Hero />
                 </div>
             </div>
-            <div id="about" className="min-w-full min-h-screen flex flex-col items-center">
+            <div ref={aboutRef} id="about" className="min-w-full min-h-screen flex flex-col items-center">
                 <About />
             </div>
         </>
