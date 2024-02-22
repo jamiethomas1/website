@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.73898mm"
+   height="40.736866mm"
+   viewBox="0 0 135.73898 40.736866"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-55.126142,-15.054747)">
+    <g
+       id="g3"
+       transform="translate(45.91103,-60.448258)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.4px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Ultra-Bold';letter-spacing:-0.529167px;fill:#1a1a1a;stroke:#3dd184;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="57.611687"
+         y="94.295006"
+         id="text1"><tspan
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Ultra-Bold';letter-spacing:-0.529167px;stroke:#3dd184;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           x="57.611687"
+           y="94.295006">JAMIE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.4px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Ultra-Bold';letter-spacing:-0.529167px;fill:#1a1a1a;stroke:#3dd184;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="57.103687"
+         y="115.73587"
+         id="text2"><tspan
+           id="tspan2"
+           style="stroke:#3dd184;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           x="57.103687"
+           y="115.73587">THOMAS</tspan></text>
+    </g>
+    <g
+       id="g6"
+       transform="matrix(0.54443793,0,0,0.54443793,47.031574,9.1268669)">
+      <path
+         id="rect5"
+         style="fill:#808080;stroke:none;stroke-width:0.456681;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 53.785541,46.303651 a 37.005954,44.359165 0 0 1 0.229777,4.85035 37.005954,44.359165 0 0 1 -11.637187,32.163933 v 0.65732 h 31.426958 v -0.63251 a 37.005954,44.359165 0 0 1 -11.727718,-32.271943 37.005954,44.359165 0 0 1 0.284527,-4.76715 z" />
+      <g
+         id="g4"
+         transform="translate(-32.517872,-58.264457)">
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:2.76955;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3"
+           width="86.447723"
+           height="51.107685"
+           x="47.38562"
+           y="70.889061"
+           ry="3.9301791"
+           rx="3.7394023" />
+        <g
+           id="g1"
+           transform="translate(32.517872,58.264457)">
+          <rect
+             style="fill:#1a1a1a;stroke:none;stroke-width:2.45169;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4"
+             width="78.454315"
+             height="44.13055"
+             x="51.382324"
+             y="74.377632"
+             rx="0"
+             ry="0"
+             transform="translate(-32.517871,-58.264457)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8518px;font-family:'DM Mono';-inkscape-font-specification:'DM Mono';letter-spacing:-0.705246px;fill:#3dd184;fill-opacity:1;stroke:none;stroke-width:0.666373;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             x="60.446156"
+             y="43.160164"
+             id="text6"
+             transform="scale(0.82103606,1.2179733)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DM Mono';-inkscape-font-specification:'DM Mono';fill:#3dd184;fill-opacity:1;stroke-width:0.666373"
+               x="60.446156"
+               y="43.160164"
+               id="tspan7">&gt;</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
