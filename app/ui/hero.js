@@ -5,10 +5,11 @@ export default function Hero() {
         <>
             <div className={styles.hero}>
                 <div className={styles.welcome}>
-                    <h1>Jamie Thomas</h1>
-                    <p>I'm Jamie Thomas, I'm a web developer from Oxfordshire. On this site, I have some information about myself, 
-                        as well as a list of the projects I have worked on to date. You can also find my GitHub profile and contact 
-                        information.</p>
+                    <h1>Hi, I'm Jamie Thomas</h1>
+                    <p>I'm a web developer from Oxfordshire. Scroll down to find out more 
+                        about me, or to see some of the projects I'm most proud of. If you'd 
+                        like to contact me, <a href="/contact/">click here</a>.
+                    </p>
                 </div>
                 <div className={styles.picture}>
                     
