@@ -1,9 +1,9 @@
 'use client'
 
-import Hero from "../components/hero"
-import Navbar from "../components/navbar"
+import Hero from "../components/Hero"
+import Navbar from "../components/Navbar"
 
-import styles from "./styles/portfolioLayout.module.css"
+import styles from "./styles/BaseLayout.module.css"
 
 
 export default function PortfolioLayout() {

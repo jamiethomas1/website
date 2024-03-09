@@ -1,4 +1,4 @@
-import PortfolioLayout from "./layouts/portfolioLayout";
+import PortfolioLayout from "./layouts/BaseLayout";
 
 export default function Home() {
   return (
