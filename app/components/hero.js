@@ -10,10 +10,12 @@ export default function Hero() {
                         about me, or to see some of the projects I'm most proud of. If you'd 
                         like to contact me, <a href="/contact/">click here</a>.
                     </p>
+                    <div class={styles.buttonContainer}>
+                        <button><a href='/about/'>About Me</a></button>
+                        <button><a href='/contact/'>Contact</a></button>
+                    </div>
                 </div>
-                <div className={styles.picture}>
-                    
-                </div>
+                <div className={styles.spacer} />
             </div>
         </>
     )

@@ -3,7 +3,6 @@
     width: 80%;
     min-height: 80vh;
     display: flex;
-    
 }
 
 .welcome {
@@ -19,13 +18,19 @@
     color: #3dd184
 }
 
-.picture {
+.spacer {
     flex: 2 1 0;
 }
 
-.picture img {
-    max-width: 300px;
-    height: 500px;
-    object-fit: cover;
-    object-position: 70% 0;
+.buttonContainer {
+    display: flex;
+    padding: 1rem 0rem;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.buttonContainer button {
+    background-color: #398a60;
+    padding: 0.5rem;
+    border-radius: 7px;
 }
