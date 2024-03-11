@@ -1,9 +1,9 @@
-import PortfolioLayout from "./layouts/BaseLayout";
+import Page from "./pages";
 
 export default function Home() {
   return (
     <main>
-      <PortfolioLayout />
+      <Page />
     </main>
   );
 }
