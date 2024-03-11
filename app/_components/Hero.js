@@ -1,4 +1,5 @@
-import styles from './styles/Hero.module.css'
+import styles from './styles/Hero.module.css';
+import Link from 'next/link';
 
 export default function Hero() {
     return (
@@ -10,11 +11,11 @@ export default function Hero() {
                         <h1>Hi, I'm Jamie Thomas</h1>
                         <p>I'm a web developer from Oxfordshire. Scroll down to find out more 
                             about me, or to see some of the projects I'm most proud of. If you'd 
-                            like to contact me, <a href="/contact/">click here</a>.
+                            like to contact me, <Link href="/contact/">click here</Link>.
                         </p>
                         <div class={styles.buttonContainer}>
-                            <button><a href='/about/'>About Me</a></button>
-                            <button><a href='/contact/'>Contact</a></button>
+                            <button><Link href='/about/'>About Me</Link></button>
+                            <button><Link href='/contact/'>Contact</Link></button>
                         </div>
                     </div>
                     <div className={styles.spacer} />
