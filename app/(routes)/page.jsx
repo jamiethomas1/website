@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <main>
       <BaseLayout>
-            <Hero />
-        </BaseLayout>
+        <div className="background" />
+        <Hero />
+      </BaseLayout>
     </main>
   );
 }
